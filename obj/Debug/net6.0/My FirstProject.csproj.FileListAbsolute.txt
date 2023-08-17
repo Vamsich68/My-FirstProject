@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\bin\Debug\net6.0\My FirstProject.exe
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\bin\Debug\net6.0\My FirstProject.dll
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.AssemblyInfo.cs
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.dll
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\refint\My FirstProject.dll
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.pdb
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\bin\Debug\net6.0\My FirstProject.deps.json
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\bin\Debug\net6.0\My FirstProject.runtimeconfig.json
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\bin\Debug\net6.0\My FirstProject.pdb
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\My FirstProject.genruntimeconfig.cache
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Debug\net6.0\ref\My FirstProject.dll

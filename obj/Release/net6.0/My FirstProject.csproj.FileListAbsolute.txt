@@ -1,0 +1,5 @@
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Release\net6.0\My FirstProject.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Release\net6.0\My FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Release\net6.0\My FirstProject.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Release\net6.0\My FirstProject.AssemblyInfo.cs
+C:\Users\SAILS-DM206\Desktop\Training\Projects\My FirstProject\obj\Release\net6.0\My FirstProject.csproj.CoreCompileInputs.cache
